@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on A2S - AI智能体学苑</title>
-        <link>https://shawnedu-blog.github.io/categories/</link>
+        <link>https://shawnedu.github.io/categories/</link>
         <description>Recent content in Categories on A2S - AI智能体学苑</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shawnedu-blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shawnedu.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AI教育</title>
-        <link>https://shawnedu-blog.github.io/categories/ai%E6%95%99%E8%82%B2/</link>
+        <link>https://shawnedu.github.io/categories/ai%E6%95%99%E8%82%B2/</link>
         <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shawnedu-blog.github.io/categories/ai%E6%95%99%E8%82%B2/</guid>
+        <guid>https://shawnedu.github.io/categories/ai%E6%95%99%E8%82%B2/</guid>
         <description></description>
         </item>
         <item>
         <title>技术</title>
-        <link>https://shawnedu-blog.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+        <link>https://shawnedu.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
         <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shawnedu-blog.github.io/categories/%E6%8A%80%E6%9C%AF/</guid>
+        <guid>https://shawnedu.github.io/categories/%E6%8A%80%E6%9C%AF/</guid>
         <description></description>
         </item>
         

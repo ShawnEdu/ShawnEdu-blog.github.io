@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>机器学习 on A2S - AI智能体学苑</title>
-        <link>https://shawnedu-blog.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+        <link>https://shawnedu.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
         <description>Recent content in 机器学习 on A2S - AI智能体学苑</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shawnedu-blog.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shawnedu.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>理解AI智能体：从概念到应用</title>
-        <link>https://shawnedu-blog.github.io/post/ai-agents/</link>
+        <link>https://shawnedu.github.io/post/ai-agents/</link>
         <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shawnedu-blog.github.io/post/ai-agents/</guid>
-        <description>&lt;img src="https://shawnedu-blog.github.io/cover.jpg" alt="Featured image of post 理解AI智能体：从概念到应用" /&gt;&lt;h2 id=&#34;什么是ai智能体&#34;&gt;什么是AI智能体？
+        <guid>https://shawnedu.github.io/post/ai-agents/</guid>
+        <description>&lt;img src="https://shawnedu.github.io/cover.jpg" alt="Featured image of post 理解AI智能体：从概念到应用" /&gt;&lt;h2 id=&#34;什么是ai智能体&#34;&gt;什么是AI智能体？
 &lt;/h2&gt;&lt;p&gt;AI智能体是能够感知环境并做出决策的智能系统。它们可以：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;自主学习和适应&lt;/li&gt;

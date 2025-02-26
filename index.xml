@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>A2S - AI智能体学苑</title>
-        <link>https://shawnedu-blog.github.io/</link>
+        <link>https://shawnedu.github.io/</link>
         <description>Recent content on A2S - AI智能体学苑</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shawnedu-blog.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shawnedu.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于我</title>
-        <link>https://shawnedu-blog.github.io/about/</link>
+        <link>https://shawnedu.github.io/about/</link>
         <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shawnedu-blog.github.io/about/</guid>
-        <description>&lt;img src="https://shawnedu-blog.github.io/cover.jpg" alt="Featured image of post 关于我" /&gt;&lt;h2 id=&#34;-我是谁&#34;&gt;👋 我是谁
+        <guid>https://shawnedu.github.io/about/</guid>
+        <description>&lt;img src="https://shawnedu.github.io/cover.jpg" alt="Featured image of post 关于我" /&gt;&lt;h2 id=&#34;-我是谁&#34;&gt;👋 我是谁
 &lt;/h2&gt;&lt;p&gt;大家好，我是尚恩，目前常驻北京。&lt;/p&gt;
 &lt;h2 id=&#34;-个人简介&#34;&gt;🎯 个人简介
 &lt;/h2&gt;&lt;p&gt;作为一名AI全流程全栈独立开发者，我有着丰富的教育科技和创业经验：&lt;/p&gt;
@@ -54,11 +54,11 @@
         </item>
         <item>
         <title>欢迎来到A2S智能体学苑</title>
-        <link>https://shawnedu-blog.github.io/post/welcome/</link>
+        <link>https://shawnedu.github.io/post/welcome/</link>
         <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shawnedu-blog.github.io/post/welcome/</guid>
-        <description>&lt;img src="https://shawnedu-blog.github.io/cover.jpg" alt="Featured image of post 欢迎来到A2S智能体学苑" /&gt;&lt;h1 id=&#34;欢迎来到a2s智能体学苑&#34;&gt;欢迎来到A2S智能体学苑
+        <guid>https://shawnedu.github.io/post/welcome/</guid>
+        <description>&lt;img src="https://shawnedu.github.io/cover.jpg" alt="Featured image of post 欢迎来到A2S智能体学苑" /&gt;&lt;h1 id=&#34;欢迎来到a2s智能体学苑&#34;&gt;欢迎来到A2S智能体学苑
 &lt;/h1&gt;&lt;p&gt;在这里，我们将一起探索AI教育的无限可能。&lt;/p&gt;
 &lt;h2 id=&#34;我们的愿景&#34;&gt;我们的愿景
 &lt;/h2&gt;&lt;p&gt;A2S（AI智能体学苑）致力于：&lt;/p&gt;
@@ -79,11 +79,11 @@
         </item>
         <item>
         <title>理解AI智能体：从概念到应用</title>
-        <link>https://shawnedu-blog.github.io/post/ai-agents/</link>
+        <link>https://shawnedu.github.io/post/ai-agents/</link>
         <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shawnedu-blog.github.io/post/ai-agents/</guid>
-        <description>&lt;img src="https://shawnedu-blog.github.io/cover.jpg" alt="Featured image of post 理解AI智能体：从概念到应用" /&gt;&lt;h2 id=&#34;什么是ai智能体&#34;&gt;什么是AI智能体？
+        <guid>https://shawnedu.github.io/post/ai-agents/</guid>
+        <description>&lt;img src="https://shawnedu.github.io/cover.jpg" alt="Featured image of post 理解AI智能体：从概念到应用" /&gt;&lt;h2 id=&#34;什么是ai智能体&#34;&gt;什么是AI智能体？
 &lt;/h2&gt;&lt;p&gt;AI智能体是能够感知环境并做出决策的智能系统。它们可以：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;自主学习和适应&lt;/li&gt;
@@ -109,10 +109,10 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>https://shawnedu-blog.github.io/search/</link>
+        <link>https://shawnedu.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://shawnedu-blog.github.io/search/</guid>
+        <guid>https://shawnedu.github.io/search/</guid>
         <description></description>
         </item>
         
